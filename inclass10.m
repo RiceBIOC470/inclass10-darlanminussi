@@ -56,7 +56,7 @@ end
 % Based on the pca biplot we can see that 3 clusters is an approppriate
 % number of cluster for the given data. Grouping 100 genes per cluster and
 % identifying the three diamond shape groups that can be seen in the
-% biplot. 
+% biplot. Using 7 clusters resuts in overfitting.
 
 
 
